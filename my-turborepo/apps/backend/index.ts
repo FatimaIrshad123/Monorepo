@@ -1,4 +1,6 @@
 import express from 'express';
+import {VALUE} from '@repo/common'
+
 const app = express()
 const port = 4000;
 
